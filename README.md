@@ -76,7 +76,8 @@ public class RollTheBall : MonoBehaviour
 ```
 ## Output:
 
-![alt text](<Screenshot 2025-08-26 095500-1.png>)
+
+![WhatsApp Image 2025-10-28 at 21 42 10_61becc77](https://github.com/user-attachments/assets/8faa95b6-d564-453e-b99c-f2001f4a855a)
 
 ## Result:
 A 3D application to roll a ball in unity is developed
